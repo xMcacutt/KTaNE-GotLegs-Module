@@ -1,0 +1,10 @@
+{
+  "name": "gotLegs-Editor",
+  "references": [
+    "gotLegs"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
