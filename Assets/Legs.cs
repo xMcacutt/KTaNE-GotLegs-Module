@@ -68,7 +68,7 @@ public class Legs : Module
         { "Mountain Chicken", 2 },
         { "Hellbender", 0 },
         { "Secretary Bird", 0 },
-        { "Peacock Mantis Shrimp", 8 },
+        { "Peacock Mantis Shrimp", 0 },
         { "Bearcat", 0 },
         { "Rock Hyrax", 0 },
         { "Turtle Dove", 0 },
@@ -87,7 +87,7 @@ public class Legs : Module
         { "Mountain Chicken", 0 },
         { "Hellbender", 0 },
         { "Secretary Bird", 2 },
-        { "Peacock Mantis Shrimp", 8 },
+        { "Peacock Mantis Shrimp", 0 },
         { "Bearcat", 0 },
         { "Rock Hyrax", 0 },
         { "Turtle Dove", 2 },
@@ -97,7 +97,7 @@ public class Legs : Module
         { "Symphyla", 0 },
         { "Blue Foot Baboon", 0 },
         { "Dog", 0 },
-        { "Human", 2 },
+        { "Human", 0 },
         { "Python", 0 }
     };
 
